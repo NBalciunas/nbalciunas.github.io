@@ -1,7 +1,7 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2024-00-00T00:00:00+00
-modDatetime: 2024-00-00T00:00:01+00
+modDatetime: 2024-00-01T00:00:00+00
 title: Example
 slug: example
 ogImage: SITE.ogImage
