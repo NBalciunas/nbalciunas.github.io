@@ -1,6 +1,6 @@
 ---
 author: Nojus Balčiūnas
-pubDatetime: 2024-04-10T06:00:00-03
+pubDatetime: 2024-04-10T00:00:00
 title: Hello, World!
 slug: hello-world
 featured: true
