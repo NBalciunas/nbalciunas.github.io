@@ -53,7 +53,7 @@ In the end the drone ended up being tons of fun, and I'm glad I picked up this h
 ![](../../assets/images/fpv-drone/22.jpg)
 ![](../../assets/images/fpv-drone/23.jpg)
 <center>
-<video width="400" height="auto" controls>
+<video width="600" height="auto" controls>
   <source src="/assets/fpv-drone/1.mp4" type="video/mp4">
 </video>
 </center>
