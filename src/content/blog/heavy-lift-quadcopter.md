@@ -34,11 +34,11 @@ In the end, I did not have enough time for it, so I gave it back.
 ![](../../assets/images/heavy-lift-quadcopter/5.jpg)
 <center>
 <video width="600" height="auto" controls>
-  <source src="/assets/images/heavy-lift-quadcopter/1.mp4" type="video/mp4">
+  <source src="/assets/heavy-lift-quadcopter/1.mp4" type="video/mp4">
 </video>
 </center>
 <center>
 <video width="600" height="auto" controls>
-  <source src="/assets/images/heavy-lift-quadcopter/2.mp4" type="video/mp4">
+  <source src="/assets/heavy-lift-quadcopter/2.mp4" type="video/mp4">
 </video>
 </center>
