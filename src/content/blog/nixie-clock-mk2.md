@@ -53,16 +53,16 @@ placeholder pls be patient
 ![](../../assets/images/nixie-clock-mk2/31.jpg)
 <center>
 <video width="600" height="auto" controls>
-  <source src="/assets/images/nixie-clock-mk2/1.mp4" type="video/mp4">
+  <source src="/assets/nixie-clock-mk2/1.mp4" type="video/mp4">
 </video>
 </center>
 <center>
 <video width="600" height="auto" controls>
-  <source src="/assets/images/nixie-clock-mk2/2.mp4" type="video/mp4">
+  <source src="/assets/nixie-clock-mk2/2.mp4" type="video/mp4">
 </video>
 </center>
 <center>
 <video width="600" height="auto" controls>
-  <source src="/assets/images/nixie-clock-mk2/3.mp4" type="video/mp4">
+  <source src="/assets/nixie-clock-mk2/3.mp4" type="video/mp4">
 </video>
 </center>
