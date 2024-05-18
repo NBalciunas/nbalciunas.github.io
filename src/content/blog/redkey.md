@@ -29,7 +29,7 @@ placeholder pls be patient
 ![](../../assets/images/redkey/7.jpg)
 ![](../../assets/images/redkey/8.jpg)
 <center>
-<video width="400" height="auto" controls>
-  <source src="/src/assets/images/redkey/1.mp4" type="video/mp4">
+<video width="600" height="auto" controls>
+  <source src="/assets/redkey/1.mp4" type="video/mp4">
 </video>
 </center>
