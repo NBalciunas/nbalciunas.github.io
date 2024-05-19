@@ -28,7 +28,7 @@ So the clock has this unfinished vibe and the center of mass is close to its fac
 Furthermore, I did not manage to make the RTC work properly.
 I did come up with a very hacky solution, where everytime the clock is booted up it starts from 16:00, so you need to turn it on at the right time, and it will keep the time itself from that point on.
 I reused the code for scrambling the nixie tubes from my previous clock.
-Also, I added some references from stuff he likes on the PCB.
+Also, I added some references from stuff my friends likes on the PCB.
 In the end it turned out alright, and I was happy with the end result.
 I feel that everytime I overcame a flaw it added a bit more personality to this clock.
 
