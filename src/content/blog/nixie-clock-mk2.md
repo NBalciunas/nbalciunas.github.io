@@ -23,7 +23,7 @@ So I decided to make a nixie clock.
 This project is not perfect.
 It was a bit rushed because I was racing to make it on time.
 The transistor footprints were wrong, so I had to make them work by rotating them to make the right legs touch the right solder points.
-In the start I was thinking about making a 3D printed case but because of time constraints I did not manage to.
+In the beginning I was thinking about making a 3D printed case but because of time constraints I did not manage to.
 So the clock has this unfinished vibe and the center of mass is close to its face, so it gets tipped over easily.
 Furthermore, I did not manage to make the RTC work properly.
 I did come up with a very hacky solution, where everytime the clock is booted up it starts from 16:00, so you need to turn it on at the right time, and it will keep the time itself from that point on.
