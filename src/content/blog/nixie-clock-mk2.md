@@ -16,7 +16,21 @@ description: My second try at making a nixie clock.
 
 ## A nice birthday gift
 
-placeholder pls be patient
+Some time ago I managed to buy a lot of IN-12 nixie lamps for very cheap.
+I bought them because I knew that I will probably want to use them again in some future project.
+When my friends birthday was coming up I decided to try to start making more personal gifts.
+So I decided to make a nixie clock.
+This project is not perfect.
+It was a bit rushed because I was racing to make it on time.
+The transistor footprints were wrong, so I had to make them work by rotating them to make the right legs touch the right solder points.
+In the start I was thinking about making a 3D printed case but because of time constraints I did not manage to.
+So the clock has this unfinished vibe and the center of mass is close to its face, so it gets tipped over easily.
+Furthermore, I did not manage to make the RTC work properly.
+I did come up with a very hacky solution, where everytime the clock is booted up it starts from 16:00, so you need to turn it on at the right time, and it will keep the time itself from that point on.
+I reused the code for scrambling the nixie tubes from my previous clock.
+Also, I added some references from stuff he likes on the PCB.
+In the end it turned out alright, and I was happy with the end result.
+I feel that everytime I overcame a flaw it added a bit more personality to this clock.
 
 ## The Pictures
 
