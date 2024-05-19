@@ -18,7 +18,7 @@ description: My second try at making a nixie clock.
 
 Some time ago I managed to buy a lot of IN-12 nixie lamps for very cheap.
 I bought them because I knew that I will probably want to use them again in some future project.
-When my friends birthday was coming up I decided to try to start making more personal gifts.
+When my friend's birthday was coming up I decided to try to start making more personal gifts.
 So I decided to make a nixie clock.
 This project is not perfect.
 It was a bit rushed because I was racing to make it on time.
