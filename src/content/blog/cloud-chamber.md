@@ -74,7 +74,6 @@ This project was inspired by [The Thought Emporium's video](https://www.youtube.
 ![](../../assets/images/cloud-chamber/36.jpg)
 ![](../../assets/images/cloud-chamber/37.jpg)
 ![](../../assets/images/cloud-chamber/38.jpg)
-![](../../assets/images/cloud-chamber/39.jpg)
 <center>
 <video width="600" height="auto" controls>
   <source src="/assets/cloud-chamber/1.mp4" type="video/mp4">
