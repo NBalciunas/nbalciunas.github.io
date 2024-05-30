@@ -36,6 +36,16 @@ I used C and my code ended up very tangled up, but it worked.
 I managed to receive signals, save them on the SD card, view them on the screen, pick one out and emulate it with my own IR LED.
 The project was a success and I learned a lot while making my remote.
 
+## The name
+
+For those wondering what "RedKey" means, let me break it down for you.
+I wanted to name my project something cool for the style factor.
+"RedKey" is two words mashed together.
+Infra**RED** and skeleton **KEY**.
+A skeleton key is a key that opens all doors and the remote is infrared, so It is pretty much self-explanatory why I picked these words.
+Also, I needed my name to be short, so It could fit in the top line of the screen.
+If I did not need that requirement maybe the name would have ended up different.
+
 ## The Pictures
 
 ![](../../assets/images/redkey/1.jpg)
