@@ -1,7 +1,7 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2024-06-06T00:00:00
-title: Mr Dachund
+title: Mr. Dachund
 slug: mrdachund
 featured: false
 tags:
