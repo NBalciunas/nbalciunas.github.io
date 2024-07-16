@@ -11,4 +11,4 @@ Hello, World!
 
 This is my first post on this website.
 
-This website will be used to show of my projects.
+This website will be used to show off my projects.
