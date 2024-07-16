@@ -21,7 +21,7 @@ I got to work a bit with a vacuum chamber and to work in a clean room.
 It was my first project that is chemistry related.
 Our setup was a bit sketchy tough, instead of the one presented in the video.
 We used a drill as our mixer, and we controlled it with a bench power supply.
-There was also a ph meter dipped in the solution to monitor the ph.
+There was also a pH meter dipped in the solution to monitor the pH.
 A lot of times the process failed, because of various reasons, but we got it to work in the end.
 
 ## The Pictures
