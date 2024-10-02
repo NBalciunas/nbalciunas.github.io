@@ -41,64 +41,64 @@ I did manage to make fix some quirks here and there though.
 
 ## The Pictures
 
-![](../../assets/images/grey-boat-red-boat/1.jpg)
-![](../../assets/images/grey-boat-red-boat/2.jpg)
-![](../../assets/images/grey-boat-red-boat/3.jpg)
-![](../../assets/images/grey-boat-red-boat/4.jpg)
-![](../../assets/images/grey-boat-red-boat/5.jpg)
-![](../../assets/images/grey-boat-red-boat/6.jpg)
-![](../../assets/images/grey-boat-red-boat/7.jpg)
-![](../../assets/images/grey-boat-red-boat/8.jpg)
-![](../../assets/images/grey-boat-red-boat/9.jpg)
-![](../../assets/images/grey-boat-red-boat/10.jpg)
-![](../../assets/images/grey-boat-red-boat/11.jpg)
-![](../../assets/images/grey-boat-red-boat/12.jpg)
-![](../../assets/images/grey-boat-red-boat/13.jpg)
-![](../../assets/images/grey-boat-red-boat/14.jpg)
-![](../../assets/images/grey-boat-red-boat/15.jpg)
-![](../../assets/images/grey-boat-red-boat/16.jpg)
-![](../../assets/images/grey-boat-red-boat/17.jpg)
-![](../../assets/images/grey-boat-red-boat/18.jpg)
-![](../../assets/images/grey-boat-red-boat/19.jpg)
-![](../../assets/images/grey-boat-red-boat/20.jpg)
-![](../../assets/images/grey-boat-red-boat/21.jpg)
-![](../../assets/images/grey-boat-red-boat/22.jpg)
-![](../../assets/images/grey-boat-red-boat/23.jpg)
-![](../../assets/images/grey-boat-red-boat/24.jpg)
-![](../../assets/images/grey-boat-red-boat/25.jpg)
-![](../../assets/images/grey-boat-red-boat/26.jpg)
-![](../../assets/images/grey-boat-red-boat/27.jpg)
-![](../../assets/images/grey-boat-red-boat/28.jpg)
-![](../../assets/images/grey-boat-red-boat/29.jpg)
-![](../../assets/images/grey-boat-red-boat/30.jpg)
-![](../../assets/images/grey-boat-red-boat/31.jpg)
-![](../../assets/images/grey-boat-red-boat/32.jpg)
-![](../../assets/images/grey-boat-red-boat/33.jpg)
-![](../../assets/images/grey-boat-red-boat/34.jpg)
-![](../../assets/images/grey-boat-red-boat/35.jpg)
-![](../../assets/images/grey-boat-red-boat/36.jpg)
-![](../../assets/images/grey-boat-red-boat/37.jpg)
-![](../../assets/images/grey-boat-red-boat/38.jpg)
-![](../../assets/images/grey-boat-red-boat/39.jpg)
-![](../../assets/images/grey-boat-red-boat/40.jpg)
-![](../../assets/images/grey-boat-red-boat/41.jpg)
+![](../../assets/images/red-boat-grey-boat/1.jpg)
+![](../../assets/images/red-boat-grey-boat/2.jpg)
+![](../../assets/images/red-boat-grey-boat/3.jpg)
+![](../../assets/images/red-boat-grey-boat/4.jpg)
+![](../../assets/images/red-boat-grey-boat/5.jpg)
+![](../../assets/images/red-boat-grey-boat/6.jpg)
+![](../../assets/images/red-boat-grey-boat/7.jpg)
+![](../../assets/images/red-boat-grey-boat/8.jpg)
+![](../../assets/images/red-boat-grey-boat/9.jpg)
+![](../../assets/images/red-boat-grey-boat/10.jpg)
+![](../../assets/images/red-boat-grey-boat/11.jpg)
+![](../../assets/images/red-boat-grey-boat/12.jpg)
+![](../../assets/images/red-boat-grey-boat/13.jpg)
+![](../../assets/images/red-boat-grey-boat/14.jpg)
+![](../../assets/images/red-boat-grey-boat/15.jpg)
+![](../../assets/images/red-boat-grey-boat/16.jpg)
+![](../../assets/images/red-boat-grey-boat/17.jpg)
+![](../../assets/images/red-boat-grey-boat/18.jpg)
+![](../../assets/images/red-boat-grey-boat/19.jpg)
+![](../../assets/images/red-boat-grey-boat/20.jpg)
+![](../../assets/images/red-boat-grey-boat/21.jpg)
+![](../../assets/images/red-boat-grey-boat/22.jpg)
+![](../../assets/images/red-boat-grey-boat/23.jpg)
+![](../../assets/images/red-boat-grey-boat/24.jpg)
+![](../../assets/images/red-boat-grey-boat/25.jpg)
+![](../../assets/images/red-boat-grey-boat/26.jpg)
+![](../../assets/images/red-boat-grey-boat/27.jpg)
+![](../../assets/images/red-boat-grey-boat/28.jpg)
+![](../../assets/images/red-boat-grey-boat/29.jpg)
+![](../../assets/images/red-boat-grey-boat/30.jpg)
+![](../../assets/images/red-boat-grey-boat/31.jpg)
+![](../../assets/images/red-boat-grey-boat/32.jpg)
+![](../../assets/images/red-boat-grey-boat/33.jpg)
+![](../../assets/images/red-boat-grey-boat/34.jpg)
+![](../../assets/images/red-boat-grey-boat/35.jpg)
+![](../../assets/images/red-boat-grey-boat/36.jpg)
+![](../../assets/images/red-boat-grey-boat/37.jpg)
+![](../../assets/images/red-boat-grey-boat/38.jpg)
+![](../../assets/images/red-boat-grey-boat/39.jpg)
+![](../../assets/images/red-boat-grey-boat/40.jpg)
+![](../../assets/images/red-boat-grey-boat/41.jpg)
 <center>
 <video width="600" height="auto" controls>
-  <source src="/assets/grey-boat-red-boat/1.mp4" type="video/mp4">
+  <source src="/assets/red-boat-grey-boat/1.mp4" type="video/mp4">
 </video>
 </center>
 <center>
 <video width="600" height="auto" controls>
-  <source src="/assets/grey-boat-red-boat/2.mp4" type="video/mp4">
+  <source src="/assets/red-boat-grey-boat/2.mp4" type="video/mp4">
 </video>
 </center>
 <center>
 <video width="600" height="auto" controls>
-  <source src="/assets/grey-boat-red-boat/3.mp4" type="video/mp4">
+  <source src="/assets/red-boat-grey-boat/3.mp4" type="video/mp4">
 </video>
 </center>
 <center>
 <video width="600" height="auto" controls>
-  <source src="/assets/grey-boat-red-boat/4.mp4" type="video/mp4">
+  <source src="/assets/red-boat-grey-boat/4.mp4" type="video/mp4">
 </video>
 </center>
