@@ -202,14 +202,16 @@ function saveForm() {
     `;
 
     const average = calculateAverage(visitorData.extras);
-    let averageColorClass = 'average-green';
-    if (average < 4) {
-        averageColorClass = 'average-red';
-    } else if (average < 7) {
-        averageColorClass = 'average-orange';
+    let averageColorClass = 'green';
+    if(average < 5){
+        averageColorClass = 'red';
+    }
+    else if(average < 8){
+        averageColorClass = 'orange';
     }
 
-    output += `<p class="${averageColorClass}">${visitorData.firstName} ${visitorData.lastName} (${visitorData.email}): ${average.toFixed(2)}</p>`;
+    output += `<div style="color:${averageColorClass}">${visitorData.firstName} ${visitorData.lastName} (${visitorData.email}): ${average.toFixed(2)}</div>`;
+    
     const alertMessage = `
       Vardas: ${visitorData.firstName}
       Pavardė: ${visitorData.lastName}
