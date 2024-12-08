@@ -40,16 +40,16 @@ print("Hello, world!")
 ![something](../../assets/images/logo.jpg)
 
 <center>
-    <video width="400" height="auto" controls>
-      <source src="/src/assets/images/heavy-lift-quadcopter/1.mp4" type="video/mp4">
-    </video>
+<video width="600" height="auto" controls>
+  <source src="/assets/heavy-lift-quadcopter/1.mp4" type="video/mp4">
+</video>
 </center>
 
 <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=+(Panev%C4%97%C5%BEys)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps vehicle tracker</a></iframe>
 
 <center>
     <audio controls>
-      <source src="/src/assets/images/example/example.mp3" type="audio/mpeg">
+      <source src="/assets/example/example.mp3" type="audio/mpeg">
     </audio>
 </center>
 
