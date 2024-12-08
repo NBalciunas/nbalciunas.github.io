@@ -125,3 +125,120 @@ print("Hello, world!")
         updateClock();
     </script>
 </center>
+
+<h2>Kontaktinė forma</h2>
+<form id="contactForm" style="color:white">
+    <label for="firstName">Vardas:</label><br>
+    <input type="text" id="firstName" name="firstName" style="color:black" required><br>
+    <label for="lastName">Pavardė:</label><br>
+    <input type="text" id="lastName" name="lastName" style="color:black" required><br>
+    <label for="email">El. paštas:</label><br>
+    <input type="email" id="email" name="email" style="color:black" required><br>
+    <label for="phone">Telefono numeris:</label><br>
+    <input type="tel" id="phone" name="phone" style="color:black" required><br>
+    <label for="address">Adresas:</label><br>
+    <input type="text" id="address" name="address" style="color:black" required><br><br>
+    <label for="extra1">Extra 1:</label><br>
+    <input type="number" id="extra1" name="extra1" style="color:black" required><br>
+    <label for="extra2">Extra 2:</label><br>
+    <input type="number" id="extra2" name="extra2" style="color:black" required><br>
+    <label for="extra3">Extra 3:</label><br>
+    <input type="number" id="extra3" name="extra3" style="color:black" required><br>
+    <label for="extra4">Extra 4:</label><br>
+    <input type="number" id="extra4" name="extra4" style="color:black" required><br>
+    <label for="extra5">Extra 5:</label><br>
+    <input type="number" id="extra5" name="extra5" style="color:black" required><br><br>
+    <button type="button" style="border: 2px solid white; padding: 8px 16px; color: white; background-color: transparent;" onclick="saveForm() ">Išsaugoti</button>
+</form>
+
+<div id="result"></div>
+
+<script>
+function saveForm() {
+    const form = document.getElementById('contactForm');
+    const firstName = form.firstName.value;
+    const lastName = form.lastName.value;
+    const email = form.email.value;
+    const phone = form.phone.value;
+    const address = form.address.value;
+
+    const extra1 = parseInt(form.extra1.value, 10);
+    const extra2 = parseInt(form.extra2.value, 10);
+    const extra3 = parseInt(form.extra3.value, 10);
+    const extra4 = parseInt(form.extra4.value, 10);
+    const extra5 = parseInt(form.extra5.value, 10);
+
+    if(!validateEmail(email)){
+        alert('Netinkamas el. pašto formatas');
+    }
+
+    if(!validatePhone(phone)){
+        alert('Netinkamas telefono numeris');
+        return;
+    }
+
+    const visitorData = {
+        firstName,
+        lastName,
+        email,
+        phone,
+        address,
+        extras: [extra1, extra2, extra3, extra4, extra5]
+    };
+
+    console.log(visitorData);
+
+    let output = `
+      <p>Vardas: ${visitorData.firstName}</p>
+      <p>Pavardė: ${visitorData.lastName}</p>
+      <p>El. paštas: ${visitorData.email}</p>
+      <p>Telefonas: ${visitorData.phone}</p>
+      <p>Adresas: ${visitorData.address}</p>
+      <p>Extra 1: ${extra1}</p>
+      <p>Extra 2: ${extra2}</p>
+      <p>Extra 3: ${extra3}</p>
+      <p>Extra 4: ${extra4}</p>
+      <p>Extra 5: ${extra5}</p>
+    `;
+
+    const average = calculateAverage(visitorData.extras);
+    let averageColorClass = 'average-green';
+    if (average < 4) {
+        averageColorClass = 'average-red';
+    } else if (average < 7) {
+        averageColorClass = 'average-orange';
+    }
+
+    output += `<p class="${averageColorClass}">${visitorData.firstName} ${visitorData.lastName} (${visitorData.email}): ${average.toFixed(2)}</p>`;
+    const alertMessage = `
+      Vardas: ${visitorData.firstName}
+      Pavardė: ${visitorData.lastName}
+      El. paštas: ${visitorData.email}
+      Telefonas: ${visitorData.phone}
+      Adresas: ${visitorData.address}
+      Požymis 1: ${extra1}
+      Požymis 2: ${extra2}
+      Požymis 3: ${extra3}
+      Požymis 4: ${extra4}
+      Požymis 5: ${extra5}
+    `;
+
+    document.getElementById('result').innerHTML = output;
+    alert(alertMessage);
+}
+
+function calculateAverage(numbers){
+    const sum = numbers.reduce((total, num) => total + num, 0);
+    return sum / numbers.length;
+}
+
+function validateEmail(email){
+    const re = /\S+@\S+\.\S+/;
+    return re.test(email);
+}
+
+function validatePhone(phone){
+    const re = /^\d{9,}$/;
+    return re.test(phone);
+}
+</script>
