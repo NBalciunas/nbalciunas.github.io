@@ -6,7 +6,7 @@ title: Example
 slug: example
 ogImage: SITE.ogImage
 featured: false
-draft: false
+draft: true
 tags:
   - example
 description: Example
