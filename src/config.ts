@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://NBalciunas.github.io/", // replace this with your deployed domain
   author: "Nojus Balčiūnas",
   desc: "A portfolio of sorts",
-  title: "My portfolio",
+  title: "NB portfolio",
   ogImage: "logo.jpg",
   lightAndDarkMode: true,
   postPerPage: 10,
