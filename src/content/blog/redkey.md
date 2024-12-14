@@ -3,7 +3,7 @@ author: Nojus Balčiūnas
 pubDatetime: 2024-04-13T00:00:00
 title: RedKey
 slug: redkey
-featured: false
+featured: true
 tags:
   - projects
   - '2022'
