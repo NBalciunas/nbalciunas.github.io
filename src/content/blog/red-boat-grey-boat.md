@@ -3,7 +3,7 @@ author: Nojus Balčiūnas
 pubDatetime: 2024-10-02T00:00:00
 title: Red boat, Grey boat
 slug: red-boat-grey-boat
-featured: false
+featured: true
 tags:
   - projects
   - '2024'
