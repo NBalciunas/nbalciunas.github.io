@@ -6,12 +6,12 @@ slug: mrdachund
 featured: false
 tags:
   - projects
-  - '2024'
-description: Simple 4x4 keypad made with Raspberry Pi Pico.
+  - "2024"
+description: Simple 4x4 keypad made with Raspberry Pi Pico
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2024 | Completed |
 
 ## Another gift

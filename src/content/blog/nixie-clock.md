@@ -6,12 +6,12 @@ slug: nixie-clock
 featured: false
 tags:
   - projects
-  - '2021'
-description: A nixie clock powered by Raspberry Pi Zero W.
+  - "2021"
+description: A nixie clock powered by Raspberry Pi Zero W
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2021 | Completed |
 
 ## My first project

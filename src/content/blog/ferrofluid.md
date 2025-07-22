@@ -6,12 +6,12 @@ slug: ferrofluid
 featured: true
 tags:
   - projects
-  - '2021'
-description: Synthesising a fluid that is attracted to magnets.
+  - "2021"
+description: Synthesising a fluid that is attracted to magnets
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2021 | Completed |
 
 ## Working with chemicals

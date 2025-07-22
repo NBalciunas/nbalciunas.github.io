@@ -9,7 +9,7 @@ tags:
   - projects
   - "2024"
   - "2025"
-description: Nixie tube driver for easy control of nixie tubes.
+description: Nixie tube driver for easy control of nixie tubes
 ---
 
 |   Year    |  Status   |

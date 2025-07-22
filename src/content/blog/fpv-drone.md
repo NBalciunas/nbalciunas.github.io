@@ -6,12 +6,12 @@ slug: fpv-drone
 featured: false
 tags:
   - projects
-  - '2023'
-description: A first-person view freestyle 7-inch drone.
+  - "2023"
+description: A first-person view freestyle 7-inch drone
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2023 | Completed |
 
 ## The story
@@ -52,9 +52,9 @@ In the end the drone ended up being tons of fun, and I'm glad I picked up this h
 ![](../../assets/images/fpv-drone/21.jpg)
 ![](../../assets/images/fpv-drone/22.jpg)
 ![](../../assets/images/fpv-drone/23.jpg)
+
 <center>
 <video width="600" height="auto" controls>
   <source src="/assets/fpv-drone/1.mp4" type="video/mp4">
 </video>
 </center>
-

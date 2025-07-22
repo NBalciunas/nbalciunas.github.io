@@ -6,12 +6,12 @@ slug: pwnagotchi
 featured: false
 tags:
   - projects
-  - '2024'
-description: AI powered pet that eats Wi-Fi handshakes.
+  - "2024"
+description: AI powered pet that eats Wi-Fi handshakes
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2024 | Completed |
 
 ## A cool gadget

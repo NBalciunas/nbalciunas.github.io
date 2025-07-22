@@ -6,12 +6,12 @@ slug: cloud-chamber
 featured: false
 tags:
   - projects
-  - '2023'
-description: A cloud chamber capable of visualizing the passage of alpha and beta rays.
+  - "2023"
+description: A cloud chamber capable of visualizing the passage of alpha and beta rays
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2023 | Completed |
 
 ## The working principle
@@ -32,7 +32,6 @@ Now we are finished with our cloud chamber that works very nicely.
 To use it, we plug it in, pour some alcohol onto our cooled surface and wait.
 After some time we should start seeing particles passing through the vapour.
 This project was inspired by [The Thought Emporium's video](https://www.youtube.com/watch?v=-Cu3wW8rNAs).
-
 
 ## Pictures
 
@@ -74,6 +73,7 @@ This project was inspired by [The Thought Emporium's video](https://www.youtube.
 ![](../../assets/images/cloud-chamber/36.jpg)
 ![](../../assets/images/cloud-chamber/37.jpg)
 ![](../../assets/images/cloud-chamber/38.jpg)
+
 <center>
 <video width="600" height="auto" controls>
   <source src="/assets/cloud-chamber/1.mp4" type="video/mp4">

@@ -6,12 +6,12 @@ slug: heavy-lift-quadcopter
 featured: false
 tags:
   - projects
-  - '2023'
-description: A quadcopter capable of carrying up to 5 kilograms.
+  - "2023"
+description: A quadcopter capable of carrying up to 5 kilograms
 ---
 
 | Year |   Status   |
-|:----:|:----------:|
+| :--: | :--------: |
 | 2023 | Incomplete |
 
 ## Big drone
@@ -32,6 +32,7 @@ In the end, I did not have enough time for it, so I gave it back.
 ![](../../assets/images/heavy-lift-quadcopter/3.jpg)
 ![](../../assets/images/heavy-lift-quadcopter/4.jpg)
 ![](../../assets/images/heavy-lift-quadcopter/5.jpg)
+
 <center>
 <video width="600" height="auto" controls>
   <source src="/assets/heavy-lift-quadcopter/1.mp4" type="video/mp4">

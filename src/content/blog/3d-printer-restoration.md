@@ -6,12 +6,12 @@ slug: 3d-printer-restoration
 featured: false
 tags:
   - projects
-  - '2023'
-description: Cleaning up and repairing an old 3D printer from the flea market.
+  - "2023"
+description: Cleaning up and repairing an old 3D printer from the flea market
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2023 | Completed |
 
 ## The story

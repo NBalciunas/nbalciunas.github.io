@@ -6,12 +6,12 @@ slug: redkey
 featured: true
 tags:
   - projects
-  - '2022'
-description: An infrared remote capable of capturing, viewing and cloning IR signals.
+  - "2022"
+description: An infrared remote capable of capturing, viewing and cloning IR signals
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2022 | Completed |
 
 ## The idea
@@ -56,6 +56,7 @@ If I did not need that requirement maybe the name would have ended up different.
 ![](../../assets/images/redkey/6.jpg)
 ![](../../assets/images/redkey/7.jpg)
 ![](../../assets/images/redkey/8.jpg)
+
 <center>
 <video width="600" height="auto" controls>
   <source src="/assets/redkey/1.mp4" type="video/mp4">

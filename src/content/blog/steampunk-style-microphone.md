@@ -6,12 +6,12 @@ slug: steampunk-style-microphone
 featured: false
 tags:
   - projects
-  - '2022'
-description: A steampunk style high quality custom microphone.
+  - "2022"
+description: A steampunk style high quality custom microphone
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2022 | Completed |
 
 ## The story

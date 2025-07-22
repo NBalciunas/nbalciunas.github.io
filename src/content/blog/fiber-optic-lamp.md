@@ -6,12 +6,12 @@ slug: fiber-optic-lamp
 featured: false
 tags:
   - projects
-  - '2024'
-description: A pretty LED lamp made with fiber optic cables.
+  - "2024"
+description: A pretty LED lamp made with fiber optic cables
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2024 | Completed |
 
 ## Pretty glowing tubes

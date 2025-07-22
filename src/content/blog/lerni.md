@@ -6,12 +6,12 @@ slug: lerni
 featured: true
 tags:
   - projects
-  - '2025'
-description: Education app that helps you prepare for the Lithuanian state exams with the help of AI.
+  - "2025"
+description: Education app that helps you prepare for the Lithuanian state exams with the help of AI
 ---
 
 | Year | Status  |
-|:----:|:-------:|
+| :--: | :-----: |
 | 2025 | Ongoing |
 
 ## Teamwork makes the dream work
@@ -37,10 +37,12 @@ It was really educational launching an app for the first time and seeing all the
 If you are interested you can visit Lerni socials or if you have an Android, download the app and try it out.
 
 #### Website : [lerni.lt](https://lerni.lt/)
-#### Facebook : [Lerni Facebook](https://www.facebook.com/profile.php?id=61572529424141)
-#### Instagram : [Lerni Instagram](https://www.instagram.com/lerniltapp/)
-#### Google Play : [Lerni Google Play](https://play.google.com/store/apps/details?id=com.cogi.lerni)
 
+#### Facebook : [Lerni Facebook](https://www.facebook.com/profile.php?id=61572529424141)
+
+#### Instagram : [Lerni Instagram](https://www.instagram.com/lerniltapp/)
+
+#### Google Play : [Lerni Google Play](https://play.google.com/store/apps/details?id=com.cogi.lerni)
 
 ## Pictures
 

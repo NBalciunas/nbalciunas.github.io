@@ -6,12 +6,12 @@ slug: red-boat-grey-boat
 featured: true
 tags:
   - projects
-  - '2024'
-description: RC controlled boats I worked on during my summer job. 
+  - "2024"
+description: RC controlled boats I worked on during my summer job
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2024 | Completed |
 
 ## Boats, boats, boats
@@ -82,6 +82,7 @@ I did manage to make fix some quirks here and there though.
 ![](../../assets/images/red-boat-grey-boat/39.jpg)
 ![](../../assets/images/red-boat-grey-boat/40.jpg)
 ![](../../assets/images/red-boat-grey-boat/41.jpg)
+
 <center>
 <video width="600" height="auto" controls>
   <source src="/assets/red-boat-grey-boat/1.mp4" type="video/mp4">

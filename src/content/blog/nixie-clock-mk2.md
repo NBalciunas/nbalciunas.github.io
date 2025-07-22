@@ -6,12 +6,12 @@ slug: nixie-clock-mk2
 featured: false
 tags:
   - projects
-  - '2023'
-description: My second try at making a nixie clock.
+  - "2023"
+description: My second try at making a nixie clock
 ---
 
 | Year |  Status   |
-|:----:|:---------:|
+| :--: | :-------: |
 | 2023 | Completed |
 
 ## A nice birthday gift
@@ -65,6 +65,7 @@ I feel that everytime I overcame a flaw it added a bit more personality to this 
 ![](../../assets/images/nixie-clock-mk2/29.jpg)
 ![](../../assets/images/nixie-clock-mk2/30.jpg)
 ![](../../assets/images/nixie-clock-mk2/31.jpg)
+
 <center>
 <video width="600" height="auto" controls>
   <source src="/assets/nixie-clock-mk2/1.mp4" type="video/mp4">
