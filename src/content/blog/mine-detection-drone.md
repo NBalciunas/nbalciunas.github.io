@@ -6,14 +6,13 @@ slug: mine_detection_drone
 featured: true
 tags:
   - projects
-  - "2024"
   - "2025"
 description: Product Development Project (PdP) | VILNIUS TECH x Saab x Aalto University
 ---
 
-|   Year    |  Status   |
-| :-------: | :-------: |
-| 2024/2025 | Completed |
+| Year |  Status   |
+| :--: | :-------: |
+| 2025 | Completed |
 
 ## Product Development Project
 
