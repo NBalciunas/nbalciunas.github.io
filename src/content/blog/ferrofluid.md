@@ -3,7 +3,7 @@ author: Nojus Balčiūnas
 pubDatetime: 2024-04-12T00:00:00
 title: Ferrofluid
 slug: ferrofluid
-featured: true
+featured: false
 tags:
   - projects
   - "2021"
