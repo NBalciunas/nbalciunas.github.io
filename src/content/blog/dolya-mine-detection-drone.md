@@ -2,7 +2,7 @@
 author: Nojus Balčiūnas
 pubDatetime: 2025-07-18T00:00:00
 title: Dolya - Mine Detection Drone
-slug: dolya-dolya-mine-detection-drone
+slug: dolya-mine-detection-drone
 featured: true
 tags:
   - projects
