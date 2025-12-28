@@ -23,7 +23,7 @@ The plugin was written in Python using KiCad’s "pcbnew" scripting library.
 Building this plugin became a natural extension of that work, a tool that would genuinely help me if I return to RF design in the future (and I fully plan to).
 It was a fun project, and I intend to keep expanding it.
 Right now it can generate patch antennas and Wilkinson power dividers with custom parameters, but I plan to add more functionality over time.
-If you are interested, you can find this project on my [GitHub](https://github.com/NBalciunas/kicad-rfgen).
+If you are interested, you can find this project on [my GitHub](https://github.com/NBalciunas/kicad-rfgen).
 
 ## Pictures
 

@@ -1,8 +1,8 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2025-07-18T00:00:00
-title: Mine Detection Drone
-slug: mine_detection_drone
+title: Dolya - Mine Detection Drone
+slug: dolya-dolya-mine-detection-drone
 featured: true
 tags:
   - projects
@@ -30,27 +30,28 @@ Although we faced several challenges along the way, including damage to the prot
 ## End result
 
 By the end of the course, our team delivered a working prototype of the mine detection drone, featuring a modular design, a functioning telemetry system, and integrated sensor components.
+The drone is named after Dolya, a Slavic deity from folklore, reflecting the project’s focus on guidance and protection in dangerous environments.
 While some parts were still in active development, we successfully demonstrated key features during the final Gala at Aalto University. Our efforts were recognized with the highest possible grade (5), which reflected both the technical depth and teamwork behind the project.
 Beyond the engineering work, this experience taught us how to collaborate internationally, adapt to challenges, and deliver results under real-world constraints.
 
 ## The Pictures
 
-![](../../assets/images/mine-detection-drone/1.jpg)  
-![](../../assets/images/mine-detection-drone/2.jpg)  
-![](../../assets/images/mine-detection-drone/3.jpg)  
-![](../../assets/images/mine-detection-drone/4.jpg)  
-![](../../assets/images/mine-detection-drone/5.jpg)  
-![](../../assets/images/mine-detection-drone/6.jpg)  
-![](../../assets/images/mine-detection-drone/7.jpg)  
-![](../../assets/images/mine-detection-drone/8.jpg)  
-![](../../assets/images/mine-detection-drone/9.jpg)  
-![](../../assets/images/mine-detection-drone/10.jpg)  
-![](../../assets/images/mine-detection-drone/11.jpg)  
-![](../../assets/images/mine-detection-drone/12.jpg)  
-![](../../assets/images/mine-detection-drone/13.jpg)  
-![](../../assets/images/mine-detection-drone/14.jpg)  
-![](../../assets/images/mine-detection-drone/15.jpg)  
-![](../../assets/images/mine-detection-drone/16.jpg)  
-![](../../assets/images/mine-detection-drone/17.jpg)  
-![](../../assets/images/mine-detection-drone/18.jpg)  
-![](../../assets/images/mine-detection-drone/19.jpg)
+![](../../assets/images/dolya-mine-detection-drone/1.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/2.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/3.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/4.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/5.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/6.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/7.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/8.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/9.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/10.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/11.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/12.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/13.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/14.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/15.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/16.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/17.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/18.jpg)  
+![](../../assets/images/dolya-mine-detection-drone/19.jpg)
