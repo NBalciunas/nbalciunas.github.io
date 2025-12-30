@@ -7,7 +7,7 @@ featured: false
 tags:
   - projects
   - "2025"
-description: Interactive vending machine concept designed with a UI inspired by the Doctor Strange films
+description: Interactive vending machine build designed with a UI inspired by the Doctor Strange films
 ---
 
 | Year |  Status   |
