@@ -1,7 +1,7 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2024-04-16T00:00:00
-title: 3D Printer restoration
+title: 3D Printer Restoration
 slug: 3d-printer-restoration
 featured: false
 tags:

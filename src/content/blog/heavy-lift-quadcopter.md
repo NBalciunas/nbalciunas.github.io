@@ -1,7 +1,7 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2024-04-18T00:00:00
-title: Heavy lift quadcopter
+title: Heavy Lift Quadcopter
 slug: heavy-lift-quadcopter
 featured: false
 tags:

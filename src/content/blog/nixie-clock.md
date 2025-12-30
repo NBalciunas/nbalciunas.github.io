@@ -1,7 +1,7 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2024-04-11T00:00:00
-title: Nixie clock
+title: Nixie Clock
 slug: nixie-clock
 featured: false
 tags:

@@ -1,7 +1,7 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2024-04-19T00:00:00
-title: Nixie clock MK2
+title: Nixie Clock MK2
 slug: nixie-clock-mk2
 featured: false
 tags:

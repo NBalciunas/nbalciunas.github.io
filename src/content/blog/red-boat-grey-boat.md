@@ -1,7 +1,7 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2024-10-02T00:00:00
-title: Red boat, Grey boat
+title: Red Boat, Grey Boat
 slug: red-boat-grey-boat
 featured: true
 tags:

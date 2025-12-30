@@ -1,7 +1,7 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2024-04-14T00:00:00
-title: Steampunk style microphone
+title: Steampunk Style Microphone
 slug: steampunk-style-microphone
 featured: false
 tags:

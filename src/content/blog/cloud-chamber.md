@@ -1,7 +1,7 @@
 ---
 author: Nojus Balčiūnas
 pubDatetime: 2024-04-15T00:00:00
-title: Cloud chamber
+title: Cloud Chamber
 slug: cloud-chamber
 featured: false
 tags:
