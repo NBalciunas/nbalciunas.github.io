@@ -7,7 +7,7 @@ featured: false
 tags:
   - projects
   - "2026"
-description: A KiCad plugin that converts images into custom PCB graphics using classic dithering and native board-color palettes
+description: KiCad plugin that converts images into custom PCB graphics using classic dithering and native board-color palettes
 ---
 
 | Year |  Status   |
