@@ -3,7 +3,7 @@ author: Nojus Balčiūnas
 pubDatetime: 2026-09-14T00:00:00
 title: RFsim
 slug: rfsim
-featured: true
+featured: false
 tags:
   - projects
   - "2026"
